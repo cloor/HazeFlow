@@ -50,7 +50,7 @@ python haze_generation/brownian_motion_generation.py
 Please download and organize the datasets as follows:
 | Dataset | Description                          | Download Link |
 |--------------|--------------------------------------|----------------|
-| RIDCP500     | 500 clear RGB images  | [Link](https://github.com/RQ-Wu/RIDCP_dehazing) |
+| RIDCP500     | 500 clear RGB images  | [rgb_500](https://github.com/RQ-Wu/RIDCP_dehazing) / [da_depth_500](https://drive.google.com/drive/folders/1mH36eROxST_-MR9drCWUrJrfylhte2GI?usp=drive_link) |
 | RTTS         | Real-world task-driven testing set   | [Link](https://github.com/cnyvfang/CORUN-Colabator?tab=readme-ov-file) |
 | URHI         | Urban and rural haze images (duplicated removed version)         | [Link](https://github.com/cnyvfang/CORUN-Colabator?tab=readme-ov-file) |
 
@@ -69,7 +69,7 @@ HazeFlow/
 Before training, make sure the datasets are properly structured as shown above.  
 Additionally, prepare the MCBM-based haze density maps and corresponding depth maps.
 
-To estimate depth maps, follow the instructions provided in the [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2.git) repository.
+To estimate depth maps, follow the instructions provided in the [Depth Anything V2](https://github.com/DepthAnything/Depth-Anything-V2.git) repository and place depth maps in `datasets/RIDCP500/da_depth_500/` directory.
 Once depth maps are ready, you can proceed to training and inference as described below.
 
 ### 1. Pretrain Phase
