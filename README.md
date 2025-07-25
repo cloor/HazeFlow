@@ -3,13 +3,15 @@
 
 
 
-<div style="display: flex; justify-content: space-between; align-items: flex-end;">
-  <h1 style="margin: 0; font-size: 28px; color: #666666;">Authors</h1>
-  <span style="font-size: 10px; color: #bbbbbb;">* denotes equal contribution</span>
-</div>
+<table width="100%" style="margin: 0; padding: 0;">
+  <tr>
+    <td align="left" style="font-size: 30px; font-weight: bold; color: #999999; padding-bottom: 4px;">Authors</td>
+    <td align="right" style="font-size: 8px; color: #cccccc;">* denotes equal contribution</td>
+  </tr>
+</table>
 
 
-<h3 style="margin-top: 0; font-size: 22px;">
+<h3 style="margin-top: 0; font-size: 20px;">
   Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim</a>
 </h3>
 
