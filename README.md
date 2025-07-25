@@ -1,13 +1,14 @@
 # HazeFlow : Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing (ICCV2025)
 
 
+
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
   <h2 style="color: gray; margin: 0;">Authors</h2>
   <small style="text-align: right;">* denotes equal contribution</small>
 </div>
 
 <h3 style="margin-top: 0;">
-  Junsung Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Taehyun Kim</a>
+  Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim</a>
 </h3>
 
 
@@ -103,7 +104,7 @@ Specify the checkpoint obtained from the reflow phase by editing `--config.flow.
 sh distill.sh
 ```
 
-## Inference
+## Inference & Demo
 
 To run inference on your own images, place them in the `dataset/custom/` directory.
 
@@ -123,6 +124,7 @@ We sincerely thank the authors for their contributions to the community.
 
 ## 📚 Citation
 If you use this code or find our work helpful, please cite our paper:
+
 
 ```bibtex
 @article{shin2025hazeflow,
