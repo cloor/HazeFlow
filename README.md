@@ -2,8 +2,10 @@
 
 
 
+
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <h2 style="color: gray; margin: 0;">Authors</h2> <small style="text-align: right;">* denotes equal contribution</small>
+  <h2 style="color: gray; margin: 0; font-size: 28px; display: inline-block;">Authors</h2>
+  <span style="font-size: 8px; color: gray; margin-left: 8px;">(* denotes equal contribution)</span>
 </div>
 
 <h3 style="margin-top: 0;">
