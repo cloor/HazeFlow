@@ -3,13 +3,13 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <h2 style="color: gray; margin: 0;">Authors <h4><sub><sup>(* denotes equal contribution.  <sup>&#8224;</sup> denotes corresponding author.)</sup></sub></h4></h2> 
+  <h2 style="color: gray; margin: 0;">Authors </h2> 
 </div>
 
 <h3 style="margin-top: 0;">
   Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim<sup>&#8224;</sup></a>
 </h3>
-
+<h4><sub><sup>(* denotes equal contribution.  <sup>&#8224;</sup> denotes corresponding author.)</sup></sub></h4>
 
 <p align="center">
   <img src="assets/ASM5.png" alt="hazeflow" width="800"/>
