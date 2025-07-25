@@ -2,14 +2,12 @@
 
 
 
-<p align="left" style="margin: 0; padding: 0;">
-  <strong style="font-size: 30px; color: #444444;">Authors</strong>
-  <span style="float: right; font-size: 8px; color: #cccccc;">* denotes equal contribution</span>
-</p>
-
-
-<h3 style="margin-top: 0; font-size: 20px;">
-  Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim</a>
+<div style="display: flex; justify-content: space-between; align-items: baseline;">
+  <h2 style="color: gray; margin: 0;">Authors</h2> 
+</div>
+<sub><sup>(* denotes equal contribution.  <sup>&#8224;</sup> denotes corresponding author.)</sup></sub>
+<h3 style="margin-top: 0;">
+  Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim<sup>&#8224;</sup></a>
 </h3>
 
 
