@@ -2,13 +2,10 @@
 
 
 
-
-<table width="100%" style="margin: 0; padding: 0;">
-  <tr>
-    <td align="left" style="font-size: 30px; font-weight: bold; color: #999999; padding-bottom: 4px;">Authors</td>
-    <td align="right" style="font-size: 8px; color: #cccccc;">* denotes equal contribution</td>
-  </tr>
-</table>
+<p align="left" style="margin: 0; padding: 0;">
+  <strong style="font-size: 30px; color: #444444;">Authors</strong>
+  <span style="float: right; font-size: 8px; color: #cccccc;">* denotes equal contribution</span>
+</p>
 
 
 <h3 style="margin-top: 0; font-size: 20px;">
