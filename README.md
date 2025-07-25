@@ -3,8 +3,7 @@
 
 
 <div style="display: flex; justify-content: space-between; align-items: baseline;">
-  <h2 style="color: gray; margin: 0;">Authors</h2>
-  <small style="text-align: right;">* denotes equal contribution</small>
+  <h2 style="color: gray; margin: 0;">Authors</h2> <small style="text-align: right;">* denotes equal contribution</small>
 </div>
 
 <h3 style="margin-top: 0;">
@@ -17,14 +16,14 @@
 </p>
 
 
-This is the official implementation of ICCV2025 "**HazeFlow**: Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing" [paper]() [project page](https://junsung6140.github.io/hazeflow/)
+This is the official implementation of ICCV2025 "**HazeFlow**: Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing" [[paper]]() / [[project page]](https://junsung6140.github.io/hazeflow/)
 
 ## Results
 <p align="center">
   <img src="assets/result.png" alt="result" width="800"/>
 </p>
 
-More qualitative and quantitative results can be found on the [project page](https://junsung6140.github.io/hazeflow/).
+More qualitative and quantitative results can be found on the [[project page]](https://junsung6140.github.io/hazeflow/).
 
 ## 📦 Installation
 ```bash
