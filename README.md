@@ -16,7 +16,7 @@
 </p>
 
 
-This is the official implementation of ICCV2025 "**HazeFlow**: Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing" [[paper]]() / [[project page]](https://junsung6140.github.io/hazeflow/)
+This is the official implementation of ICCV2025 "**HazeFlow**: Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing" [[paper]](https://drive.google.com/file/d/1xyUgFa3GjLn87kppHZNqaY_ntOpbcrTv/view?usp=drive_link) / [[project page]](https://junsung6140.github.io/hazeflow/)
 
 ## Results
 <p align="center">
