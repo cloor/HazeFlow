@@ -175,7 +175,7 @@ class Example(Dataset):
 
         
         return {'hazy':img, 
-                't':dcp, 
+                'dcp':dcp, 
                 'name':name}
     
 class MCBM(Dataset): 

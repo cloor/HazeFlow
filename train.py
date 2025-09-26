@@ -202,7 +202,7 @@ def main(argv):
             ema.copy_to(score_model.parameters())
             for idx, batch in enumerate(test_loader):
                 z0=batch['hazy'].to(device)
-                t = batch['t'].to(device)
+                t = batch['dcp'].to(device)
                 name = batch['name'][0]
                 
                 img_multiple_of = 64
