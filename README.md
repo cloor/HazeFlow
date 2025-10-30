@@ -126,11 +126,12 @@ If you use this code or find our work helpful, please cite our paper:
 
 
 ```bibtex
-@article{shin2025hazeflow,
-    title={HazeFlow: Revisit Haze Physical Model as ODE and Realistic Non-Homogeneous Haze Generation for Real-World Dehazing},
-    author={Junseong Shin and Seungwoo Chung and Yunjeong Yang and Tae Hyun Kim},
-    journal={ICCV},
-    year={2025}
+@inproceedings{shin2025hazeflow,
+  title={HazeFlow: Revisit Haze Physical Model as ODE and Non-Homogeneous Haze Generation for Real-World Dehazing},
+  author={Shin, Junseong and Chung, Seungwoo and Yang, Yunjeong and Kim, Tae Hyun},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={6263--6272},
+  year={2025}
 }
 ```
 
