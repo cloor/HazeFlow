@@ -7,7 +7,7 @@
 </div>
 
 <h3 style="margin-top: 0;">
-  Junseong Shin*, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim<sup>&#8224;</sup></a>
+  <a href="https://junsung6140.github.io/">Junseong Shin*</a>, <a href="https://cloor.github.io/">Seungwoo Chung*</a>, Yunjeong Yang, <a href="https://sites.google.com/view/lliger9">Tae Hyun Kim<sup>&#8224;</sup></a>
 </h3>
 <h4><sub><sup>(* denotes equal contribution.  <sup>&#8224;</sup> denotes corresponding author.)</sup></sub></h4>
 
