@@ -42,6 +42,7 @@ conda env create -f environment.yaml
 
 Checkpoints can be downloaded [here](https://drive.google.com/file/d/1m8OVRi-3m7-u0bGWFS5W2ZpZM06XyLJd/view?usp=sharing).
 
+Visual Results can be downloaded [here](https://drive.google.com/drive/folders/1aO9CoX8oo8EUPPrdimLtHSuHME6E9dWP?usp=sharing).
 ## 🌫️ Haze Generation
 <p align="center">
   <img src="assets/mcbm.png" alt="mcbm" width="800"/>
@@ -116,6 +117,7 @@ Finally, run:
 ```bash
 sh sampling.sh
 ```
+
 
 ## 🔗 Acknowledgements
 Our implementation is based on [RectifiedFlow](https://github.com/gnobitab/RectifiedFlow) and [SlimFlow](https://github.com/yuanzhi-zhu/SlimFlow).
